@@ -290,9 +290,80 @@ def build_model():
 
     return model
 
+def createNewsHeadlinePrediction(ex, sector_list):
+
+    undlNameList = []
+    for sector in sector_list:
+        undlNameList += getUndlNameList(sector)
+
+    start_date = formatDate(today)
+    end_date = formatDate(today)
+
+    resultDict = {"undlName":[], "bull_signals":[], "bear_signals":[]}
+
+    # load model
+    market_bull_model = build_model()
+    market_bull_model.reset_states()
+    market_bull_model.load_weights(modelPath + ex + "_market_bull_model.h5")
+    market_bear_model = build_model()
+    market_bear_model.reset_states()
+    market_bear_model.load_weights(modelPath + ex + "_market_bear_model.h5")
+
+    sectorBullModelDict = {}
+    sectorBearModelDict = {}
+    for sector in sector_list:
+        model = build_model()
+        model.reset_states()
+        model.load_weights(modelPath + sector + "_bull_model.h5")
+        sectorBullModelDict[sector] = model
+
+        model = build_model()
+        model.reset_states()
+        model.load_weights(modelPath + sector + "_bear_model.h5")
+        sectorBearModelDict[sector] = model
+
+    tmp = []
+    for undlName in undlNameList:
+        tmp_df = createUndlDataFrame(undlName, undlNameFullNameDict[undlName], "NS:RTRS",
+                                    [removeHeading, normalize_headline, removeOthers],
+                                    start_date, end_date, "")
+        tmp_df = tmp_df.drop_duplicates(subset='storyId')
+        tmp_df = tmp_df.sort_values(["date"])
+        if len(tmp_df) != 0: tmp.append(tmp_df)
+
+    if len(tmp) != 0: df = pd.concat(tmp, axis=0)
+
+    print(df.shape)
+
+    # create ELMo Vector
+    batch = [df["text"].values[i:i+100] for i in range(0, df.shape[0], 100)]
+    batch_elmo = [elmo_vector(x) for x in batch]
+    elmo_vector_list = np.concatenate(batch_elmo, axis=0)
+
+    market_bull_model_result = market_bull_model.predict(elmo_vector_list)
+    market_bear_model_result = market_bear_model.predict(elmo_vector_list)
+
+
+
+    resultDict["undlName"] += list(df["undlName"].values)
+    resultDict["bull_signals"] += [1 if i > 0.5 else 0 for i in tmp1]
+    resultDict["bear_signals"] += [1 if i > 0.5 else 0 for i in tmp2]
+
+    result_df = pd.DataFrame.from_dict(resultDict)
+    to_drop = [i for i in range(result_df.shape[0]) if result_df.iloc[i, 1] == 0 and result_df.iloc[i, 2] == 0]
+    result_df = result_df.drop(to_drop)
+    result_df.to_csv(r"D:/python/EventDriven/result/" + formatDate(today) + "_" + ex + ".csv")
+
+    return True
+
 def main():
 
-    undlNameList = getUndlNameList("HK")
+    sector_list = ["Tencent", "Chinese_Bank", "Chinese_Insurance", "Chinese_Oil", "Chinese_Auto",
+               "Chinese_Telecom", "Chinese_Industrial", "HK_Property", "HK_Bank"]
+
+    undlNameList = []
+    for sector in sector_list:
+        undlNameList += getUndlNameList(sector)
 
     start_date = formatDate(today)
     end_date = formatDate(today)
@@ -306,9 +377,9 @@ def main():
                                     start_date, end_date, "")
         tmp_df = tmp_df.drop_duplicates(subset='storyId')
         tmp_df = tmp_df.sort_values(["date"])
-        tmp.append(tmp_df)
+        if len(tmp_df) != 0: tmp.append(tmp_df)
 
-    df = pd.concat(tmp, axis=0)
+    if len(tmp) != 0: df = pd.concat(tmp, axis=0)
 
     print(df.shape)
 

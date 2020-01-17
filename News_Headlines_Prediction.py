@@ -340,8 +340,12 @@ def createNewsHeadlinePrediction(ex, sector_list):
         tmp_df = tmp_df.sort_values(["date"])
         if len(tmp_df) != 0: tmp.append(tmp_df)
 
-    if len(tmp) != 0: df = pd.concat(tmp, axis=0)
-
+    if len(tmp) != 0:
+        df = pd.concat(tmp, axis=0)
+    else:
+        print("No News Headlines")
+        return True
+    
     print(df.shape)
 
     # create ELMo Vector

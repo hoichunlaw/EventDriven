@@ -349,8 +349,8 @@ def createNewsHeadlinePrediction(ex, sector_list):
     batch_elmo = [elmo_vector(x) for x in batch]
     elmo_vector_list = np.concatenate(batch_elmo, axis=0)
 
-    market_bull_model_result = market_bull_model.predict(elmo_vector_list)
-    market_bear_model_result = market_bear_model.predict(elmo_vector_list)
+    market_bull_model_result = market_bull_model.predict(elmo_vector_list).reshape(-1)
+    market_bear_model_result = market_bear_model.predict(elmo_vector_list).reshape(-1)
 
     sector_bull_model_result = []
     sector_bear_model_result = []

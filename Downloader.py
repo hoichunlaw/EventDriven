@@ -123,7 +123,7 @@ def downloadHistoricalMarketData(undlName, dateFrom, dateTo, savePath):
     df.to_csv(savePath + myUndlName + ".csv")
 
 def main():
-    today = datetime.datetime.now()
+    today = datetime.datetime.now() + datetime.timedelta(-1)
     df = pd.read_csv(r'D:/Database/Underlying_Database/undlNameList.csv')
     undlNameList = list(df.undlName.values)
 

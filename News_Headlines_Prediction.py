@@ -203,8 +203,7 @@ def createUndlDataFrame(undlName, undlNameFullNameList, newsSource, filterFuncLi
         spot_df_benchmark = spot_df_benchmark.loc[spot_df.index]
 
     # truncate news_df when stock has limited historical data
-    news_df = news_df[(news_df.date >= min(spot_df.index)) &
-                     (news_df.date <= max(spot_df.index))]
+    news_df = news_df[(news_df.date >= min(spot_df.index))]
 
     # create one day, two day and three day change columns
     if benchmark != "":
@@ -345,7 +344,7 @@ def createNewsHeadlinePrediction(ex, sector_list):
     else:
         print("No News Headlines")
         return True
-    
+
     print(df.shape)
 
     # create ELMo Vector

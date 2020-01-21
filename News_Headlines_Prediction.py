@@ -2,6 +2,7 @@ import eikon as ek
 import numpy as np
 import pandas as pd
 import os
+import shutil
 import zipfile
 import datetime
 import cufflinks as cf
@@ -28,6 +29,7 @@ dataRootPathMarketData = r"D:/Eikon_Data/Market_Data/"
 dataRootPathDB = r"D:/Database/"
 modelPath = r"D:/python/PROD_Model/"
 zipFolderPath = r"D:/Zip_Folder/"
+tf_hub_path = r"C:/Users/hc_la/AppData/Local/Temp/tfhub_modules/"
 date_format = "%Y-%m-%d"
 
 elmo = hub.Module("https://tfhub.dev/google/elmo/3", trainable=True)
@@ -299,6 +301,9 @@ def build_model():
     return model
 
 def createNewsHeadlinePrediction(ex, sector_list):
+
+    # remove hub folder
+    shutil.rmtree(tf_hub_path)
 
     undlNameList = []
     for sector in sector_list:

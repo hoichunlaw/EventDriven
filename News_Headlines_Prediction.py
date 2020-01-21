@@ -302,9 +302,6 @@ def build_model():
 
 def createNewsHeadlinePrediction(ex, sector_list):
 
-    # remove hub folder
-    shutil.rmtree(tf_hub_path)
-
     undlNameList = []
     for sector in sector_list:
         undlNameList += getUndlNameList(sector)

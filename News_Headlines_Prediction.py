@@ -389,5 +389,9 @@ def main():
 
     createNewsHeadlinePrediction(ex="HK", sector_list=sector_list)
 
+    sector_list = ["AX_Bank"]
+
+    createNewsHeadlinePrediction(ex="AX", sector_list=sector_list)
+
 if __name__=="__main__":
     main()

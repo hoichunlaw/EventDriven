@@ -332,7 +332,7 @@ def createNewsHeadlinePrediction(ex, sector_list):
         #model.load_weights(modelPath + sector + "_bear_model.h5")
         #sectorBearModelDict[sector] = model
 
-    #tmp = []
+    tmp = []
     for undlName in undlNameList:
         tmp_df = createUndlDataFrame(undlName, undlNameFullNameDict[undlName], "NS:RTRS",
                                     [removeHeading, normalize_headline, removeOthers],

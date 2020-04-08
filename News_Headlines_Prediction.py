@@ -378,7 +378,7 @@ def createNewsHeadlinePrediction(ex, sector_list):
     #result_df = pd.DataFrame.from_dict(resultDict)
     #to_drop = [i for i in range(result_df.shape[0]) if result_df.iloc[i, 1] == 0 and result_df.iloc[i, 2] == 0]
     #result_df = result_df.drop(to_drop)
-    result_df = df.loc[:,["date", "undlName", "text"]]
+    result_df = df.loc[:,["undlName", "text"]]
     result_df.to_csv(r"D:/python/EventDriven/result/" + formatDate(today) + "_" + ex + ".csv")
 
     return True

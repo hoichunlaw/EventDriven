@@ -302,37 +302,37 @@ def build_model():
 
 def createNewsHeadlinePrediction(ex, sector_list):
 
-    undlNameList = []
+    undlNameList = getUndlNameList(ex)
     for sector in sector_list:
         undlNameList += getUndlNameList(sector)
 
     start_date = formatDate(today)
     end_date = formatDate(today)
 
-    resultDict = {"undlName":[], "bull_signals":[], "bear_signals":[]}
+    #resultDict = {"undlName":[], "bull_signals":[], "bear_signals":[]}
 
     # load model
-    market_bull_model = build_model()
-    market_bull_model.reset_states()
-    market_bull_model.load_weights(modelPath + ex + "_market_bull_model.h5")
-    market_bear_model = build_model()
-    market_bear_model.reset_states()
-    market_bear_model.load_weights(modelPath + ex + "_market_bear_model.h5")
+    #market_bull_model = build_model()
+    #market_bull_model.reset_states()
+    #market_bull_model.load_weights(modelPath + ex + "_market_bull_model.h5")
+    #market_bear_model = build_model()
+    #market_bear_model.reset_states()
+    #market_bear_model.load_weights(modelPath + ex + "_market_bear_model.h5")
 
-    sectorBullModelDict = {}
-    sectorBearModelDict = {}
-    for sector in sector_list:
-        model = build_model()
-        model.reset_states()
-        model.load_weights(modelPath + sector + "_bull_model.h5")
-        sectorBullModelDict[sector] = model
+    #sectorBullModelDict = {}
+    #sectorBearModelDict = {}
+    #for sector in sector_list:
+        #model = build_model()
+        #model.reset_states()
+        #model.load_weights(modelPath + sector + "_bull_model.h5")
+        #sectorBullModelDict[sector] = model
 
-        model = build_model()
-        model.reset_states()
-        model.load_weights(modelPath + sector + "_bear_model.h5")
-        sectorBearModelDict[sector] = model
+        #model = build_model()
+        #model.reset_states()
+        #model.load_weights(modelPath + sector + "_bear_model.h5")
+        #sectorBearModelDict[sector] = model
 
-    tmp = []
+    #tmp = []
     for undlName in undlNameList:
         tmp_df = createUndlDataFrame(undlName, undlNameFullNameDict[undlName], "NS:RTRS",
                                     [removeHeading, normalize_headline, removeOthers],
@@ -350,34 +350,35 @@ def createNewsHeadlinePrediction(ex, sector_list):
     print(df.shape)
 
     # create ELMo Vector
-    batch = [df["text"].values[i:i+100] for i in range(0, df.shape[0], 100)]
-    batch_elmo = [elmo_vector(x) for x in batch]
-    elmo_vector_list = np.concatenate(batch_elmo, axis=0)
+    #batch = [df["text"].values[i:i+100] for i in range(0, df.shape[0], 100)]
+    #batch_elmo = [elmo_vector(x) for x in batch]
+    #elmo_vector_list = np.concatenate(batch_elmo, axis=0)
 
-    market_bull_model_result = market_bull_model.predict(elmo_vector_list).reshape(-1)
-    market_bear_model_result = market_bear_model.predict(elmo_vector_list).reshape(-1)
+    #market_bull_model_result = market_bull_model.predict(elmo_vector_list).reshape(-1)
+    #market_bear_model_result = market_bear_model.predict(elmo_vector_list).reshape(-1)
 
-    sector_bull_model_result = []
-    sector_bear_model_result = []
-    i = 0
-    for undlName in df["undlName"].values:
-        sector_bull_model = sectorBullModelDict[getSector(undlName)]
-        sector_bear_model = sectorBearModelDict[getSector(undlName)]
+    #sector_bull_model_result = []
+    #sector_bear_model_result = []
+    #i = 0
+    #for undlName in df["undlName"].values:
+    #    sector_bull_model = sectorBullModelDict[getSector(undlName)]
+    #    sector_bear_model = sectorBearModelDict[getSector(undlName)]
 
-        sector_bull_model_result += list(sector_bull_model.predict(elmo_vector_list[i].reshape(1, -1)).reshape(-1))
-        sector_bear_model_result += list(sector_bear_model.predict(elmo_vector_list[i].reshape(1, -1)).reshape(-1))
-        i += 1
+    #    sector_bull_model_result += list(sector_bull_model.predict(elmo_vector_list[i].reshape(1, -1)).reshape(-1))
+    #    sector_bear_model_result += list(sector_bear_model.predict(elmo_vector_list[i].reshape(1, -1)).reshape(-1))
+    #    i += 1
 
-    sector_bull_model_result = np.array(sector_bull_model_result)
-    sector_bear_model_result = np.array(sector_bear_model_result)
+    #sector_bull_model_result = np.array(sector_bull_model_result)
+    #sector_bear_model_result = np.array(sector_bear_model_result)
 
-    resultDict["undlName"] += list(df["undlName"].values)
-    resultDict["bull_signals"] += [1 if i > 1 else 0 for i in market_bull_model_result + sector_bull_model_result]
-    resultDict["bear_signals"] += [1 if i > 1 else 0 for i in market_bear_model_result + sector_bear_model_result]
+    #resultDict["undlName"] += list(df["undlName"].values)
+    #resultDict["bull_signals"] += [1 if i > 1 else 0 for i in market_bull_model_result + sector_bull_model_result]
+    #resultDict["bear_signals"] += [1 if i > 1 else 0 for i in market_bear_model_result + sector_bear_model_result]
 
-    result_df = pd.DataFrame.from_dict(resultDict)
-    to_drop = [i for i in range(result_df.shape[0]) if result_df.iloc[i, 1] == 0 and result_df.iloc[i, 2] == 0]
-    result_df = result_df.drop(to_drop)
+    #result_df = pd.DataFrame.from_dict(resultDict)
+    #to_drop = [i for i in range(result_df.shape[0]) if result_df.iloc[i, 1] == 0 and result_df.iloc[i, 2] == 0]
+    #result_df = result_df.drop(to_drop)
+    result_df = df.loc[:,["date", "undlName", "text"]]
     result_df.to_csv(r"D:/python/EventDriven/result/" + formatDate(today) + "_" + ex + ".csv")
 
     return True
@@ -387,11 +388,13 @@ def main():
     sector_list = ["Tencent", "Chinese_Bank", "Chinese_Insurance", "Chinese_Oil", "Chinese_Auto",
                "Chinese_Telecom", "Chinese_Industrial", "HK_Property", "HK_Bank"]
 
-    createNewsHeadlinePrediction(ex="HK", sector_list=sector_list)
+    createNewsHeadlinePrediction(ex="HK", sector_list=[])
 
     sector_list = ["AX_Bank"]
 
-    createNewsHeadlinePrediction(ex="AX", sector_list=sector_list)
+    createNewsHeadlinePrediction(ex="AX", sector_list=[])
+
+    createNewsHeadlinePrediction(ex="SI", sector_list=[])
 
 if __name__=="__main__":
     main()

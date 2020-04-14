@@ -1,23 +1,29 @@
 ,undlName,text
 5,BHP.AX,"bhp, glencore-controlled copper mine in peru halts operations for two weeks amid pandemic"
 2,BHP.AX,"australia's bhp falls, peru mine halts operations to curb coronavirus spread"
-2,CSL.AX,australia's csl: jefferies cuts pt on impact to demand
-1,CSL.AX,australia stock exchange release from csl csl.ax: trade under investigation csl tmc  10:51:15 tsn 1540144635-1540144638
-0,CSL.AX,australia stock exchange release from csl csl.ax: investigation completed - trades in csl tmc  10:51:15 stand
-24,WBC.AX,australia stock exchange release from westpac banking wbc.ax: items affecting wbc's first half 2020 results
-23,WBC.AX,australia stock exchange release from westpac banking wbc.ax: prenr ends: 08:00:56
-18,WBC.AX,"corrected-westpac - hy statutory net profit after tax will also be reduced by provisions, write-downs adds period, dropped words"
-17,WBC.AX,rpt-westpac banking corp - westpac expects to report lower cash earnings in 1h20
-16,WBC.AX,"rpt-westpac - expected new, increased provisions  asset write-downs totalling around 1,430 mln after tax which will reduce first half 2020 cash earnings"
-15,WBC.AX,rpt-westpac banking corp - undertaking detailed analysis to finalise its impairment provisions for 1h20
-14,WBC.AX,rpt-westpac banking corp - impact of items disclosed on westpac's cet1 capital ratio estimated to be around 30 basis points
-13,WBC.AX,"rpt-westpac banking -  expected items for h1 include provisions and costs associated with austrac proceedings and response plan of 1,030 mln after tax"
-12,WBC.AX,"rpt-westpac banking- expected items for h1 includes increase in provisions for customer refunds, repayments and litigation of around 260 mln after tax"
-10,WBC.AX,rpt-westpac banking corp - expects to make a provision of 900 mln for its potential liability in relation to austrac claim
-11,WBC.AX,rpt-westpac banking corp - a decision on 1h20 dividends expected to be announced with westpac's 1h20 results
-9,WBC.AX,rpt-westpac-hy impairment charge likely to include collective provision increase to lift total provision balance for credit losses expected from covid-19
-8,WBC.AX,australia's westpac braces for lower h1 earnings as coronavirus credit losses loom
-0,WBC.AX,2-australia's westpac puts 578 mln price on exploitation scandal
+3,CSL.AX,australia's csl: jefferies cuts pt on impact to demand
+2,CSL.AX,australia stock exchange release from csl csl.ax: trade under investigation csl tmc  10:51:15 tsn 1540144635-1540144638
+1,CSL.AX,australia stock exchange release from csl csl.ax: investigation completed - trades in csl tmc  10:51:15 stand
+0,CSL.AX,csl : morgans cuts price target to a299.7 from a303.1; rating hold
+25,WBC.AX,australia stock exchange release from westpac banking wbc.ax: items affecting wbc's first half 2020 results
+24,WBC.AX,australia stock exchange release from westpac banking wbc.ax: prenr ends: 08:00:56
+0,WBC.AX,westpac banking corp wbc.ax : jefferies cuts price target to a14.70 from a14.80; rating 'hold'
+19,WBC.AX,"corrected-westpac - hy statutory net profit after tax will also be reduced by provisions, write-downs adds period, dropped words"
+18,WBC.AX,rpt-westpac banking corp - westpac expects to report lower cash earnings in 1h20
+17,WBC.AX,"rpt-westpac - expected new, increased provisions  asset write-downs totalling around 1,430 mln after tax which will reduce first half 2020 cash earnings"
+16,WBC.AX,rpt-westpac banking corp - undertaking detailed analysis to finalise its impairment provisions for 1h20
+15,WBC.AX,rpt-westpac banking corp - impact of items disclosed on westpac's cet1 capital ratio estimated to be around 30 basis points
+14,WBC.AX,"rpt-westpac banking -  expected items for h1 include provisions and costs associated with austrac proceedings and response plan of 1,030 mln after tax"
+13,WBC.AX,"rpt-westpac banking- expected items for h1 includes increase in provisions for customer refunds, repayments and litigation of around 260 mln after tax"
+12,WBC.AX,rpt-westpac banking corp - a decision on 1h20 dividends expected to be announced with westpac's 1h20 results
+11,WBC.AX,rpt-westpac banking corp - expects to make a provision of 900 mln for its potential liability in relation to austrac claim
+10,WBC.AX,rpt-westpac-hy impairment charge likely to include collective provision increase to lift total provision balance for credit losses expected from covid-19
+9,WBC.AX,australia's westpac braces for lower h1 earnings as coronavirus credit losses loom
+1,WBC.AX,2-australia's westpac puts 578 mln price on exploitation scandal
+5,MQG.AX,australia stock exchange release from oohmedia oml.ax: ceasing to be a substantial holder from mqg
+4,MQG.AX,australia stock exchange release from macquarie group mqg.ax: ceasing to be a substantial holder for oml
+3,MQG.AX,australia stock exchange release from new century reso ncz.ax: change in substantial  from mqg
+2,MQG.AX,australia stock exchange release from macquarie group mqg.ax: change in substantial  for ncz
 35,QBE.AX,australia stock exchange release from qbe insur. qbe.ax: trading halt
 0,QBE.AX,2-australia's qbe insurance to raise 825 mln to counter coronavirus crisis
 11,QBE.AX,australia's qbe insurance to raise capital to counter coronavirus pressures
@@ -39,12 +45,13 @@
 33,QBE.AX,qbe insurance group  - seeks trading halt pending capital raise
 23,QBE.AX,"qbe insurance group  - qtrly gross written premium us4,533m"
 4,QBE.AX,qbe insurance group seeks trading halt pending capital raise
-6,SGP.AX,australia stock exchange release from stockland sgp.ax: liquidity update
-3,SGP.AX,stockland corporation  - has put in place additional unsecured bank debt facilities totalling 350 mln
-0,SGP.AX,stockland corp - additional bank facilities have mixture of 1-yr and 2-yr durations
-1,SGP.AX,stockland corporation - cumulatively 530 mln of additional debt further improves available liquidity position to around 1.3 bln as at 9 april
-2,SGP.AX,"stockland corporation  - as at 29 feb stockland had total available liquidity of 850 mln, comprising cash  committed undrawn bank debt facilities"
+7,SGP.AX,australia stock exchange release from stockland sgp.ax: liquidity update
+4,SGP.AX,stockland corporation  - has put in place additional unsecured bank debt facilities totalling 350 mln
+1,SGP.AX,stockland corp - additional bank facilities have mixture of 1-yr and 2-yr durations
+2,SGP.AX,stockland corporation - cumulatively 530 mln of additional debt further improves available liquidity position to around 1.3 bln as at 9 april
+3,SGP.AX,"stockland corporation  - as at 29 feb stockland had total available liquidity of 850 mln, comprising cash  committed undrawn bank debt facilities"
 2,SYD.AX,australia stock exchange release from sydney airport syd.ax: sydney airport - 2020 notices of meeting
 2,ASX.AX,australia stock exchange release from asx asx.ax: change in substantial 
 3,REA.AX,australia stock exchange release from rea group  rea.ax: form 8-k filed by news corp with sec
 1,REA.AX,australia stock exchange release from rea group  rea.ax: prenr ends: 08:35:41
+3,AMP.AX,australia stock exchange release from amp amp.ax: change in substantial  for kmd

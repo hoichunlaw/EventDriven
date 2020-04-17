@@ -1,27 +1,29 @@
 ,undlName,text
 3,CBA.AX,australia stock exchange release from commonwealth ban cba.ax: change in substantial  for asg
-31,RIO.AX,australia stock exchange release from rio tinto rio.ax: rio tinto releases first quarter production results
-6,RIO.AX,corrected-miner rio tinto's shipments rise 5.5 as output recovers after cyclone hit
-19,RIO.AX,"rio tinto, with respect to covid-19, says in rest of world, outlook is more uncertain"
-27,RIO.AX,rio tinto  - qtrly pilbara iron ore production 100 basis 77.8 mt vs 76 mt a year ago
-26,RIO.AX,rio tinto  - qtrly aluminium production 783 kt vs 796 kt as reported last yr
-25,RIO.AX,rio tinto  - capital expenditure is now expected to be 5 to 6 bln in 2020
-24,RIO.AX,rio tinto - capital expenditure originally planned for 2020 may subsequently flow into 2021 and 2022
-23,RIO.AX,rio tinto  -  - qtrly mined copper production of 133.0 thousand tonnes was 8 lower
-22,RIO.AX,rio tinto  - sees 2020 production of mined copper at 475 to 520 kt
-21,RIO.AX,rio tinto  - demand in china continues to recover
-10,RIO.AX,rio tinto  - lowers 2020 production guidance of refined copper to 165 to 205 kt from 205 to 235 kt
-11,RIO.AX,rio tinto  - lowers 2020 production guidance of mined copper to 475 to 520 kt from 530 to 570 kt
-12,RIO.AX,"rio tinto-mined  refined copper outlook lowered on likely reduction in h2 output at escondida from covid-19 measures, earthquake repair at kennecott"
-13,RIO.AX,rio tinto - construction of second tunnel at kemano hydropower facility in british columbia put on care  maintenance due to contractor availability
-14,RIO.AX,"rio tinto - all major projects progressed well in q1, but now being affected by covid-19 including govt imposed restrictions"
-16,RIO.AX,rio tinto  - covid-19 restrictions may impact schedule range for oyu tolgoi underground project
-17,RIO.AX,"rio tinto - 2020 forecast for bauxite, alumina, aluminium, pilbara iron ore shipments 100 basis unchanged"
-18,RIO.AX,rio tinto  - sees 2020 production of refined copper between 165 to 205 kt
-28,RIO.AX,rio tinto  - qtrly pilbara iron ore shipments 100 basis 72.9 mt vs 69.1 mt as reported last yr
-30,RIO.AX,australia stock exchange release from rio tinto rio.ax: prenr ends: 08:35:42
-4,RIO.AX,"2-rio tinto reports stronger-than-expected iron ore output, shares rise"
-5,RIO.AX,rio tinto rises on strong q1 iron ore production
+33,RIO.AX,australia stock exchange release from rio tinto rio.ax: rio tinto releases first quarter production results
+7,RIO.AX,rio tinto rises on strong q1 iron ore production
+6,RIO.AX,"2-rio tinto reports stronger-than-expected iron ore output, shares rise"
+8,RIO.AX,corrected-miner rio tinto's shipments rise 5.5 as output recovers after cyclone hit
+15,RIO.AX,rio tinto - construction of second tunnel at kemano hydropower facility in british columbia put on care  maintenance due to contractor availability
+12,RIO.AX,rio tinto  - lowers 2020 production guidance of refined copper to 165 to 205 kt from 205 to 235 kt
+13,RIO.AX,rio tinto  - lowers 2020 production guidance of mined copper to 475 to 520 kt from 530 to 570 kt
+14,RIO.AX,"rio tinto-mined  refined copper outlook lowered on likely reduction in h2 output at escondida from covid-19 measures, earthquake repair at kennecott"
+16,RIO.AX,"rio tinto - all major projects progressed well in q1, but now being affected by covid-19 including govt imposed restrictions"
+18,RIO.AX,rio tinto  - covid-19 restrictions may impact schedule range for oyu tolgoi underground project
+19,RIO.AX,"rio tinto - 2020 forecast for bauxite, alumina, aluminium, pilbara iron ore shipments 100 basis unchanged"
+20,RIO.AX,rio tinto  - sees 2020 production of refined copper between 165 to 205 kt
+21,RIO.AX,"rio tinto, with respect to covid-19, says in rest of world, outlook is more uncertain"
+23,RIO.AX,rio tinto  - demand in china continues to recover
+24,RIO.AX,rio tinto  - sees 2020 production of mined copper at 475 to 520 kt
+25,RIO.AX,rio tinto  -  - qtrly mined copper production of 133.0 thousand tonnes was 8 lower
+26,RIO.AX,rio tinto - capital expenditure originally planned for 2020 may subsequently flow into 2021 and 2022
+27,RIO.AX,rio tinto  - capital expenditure is now expected to be 5 to 6 bln in 2020
+28,RIO.AX,rio tinto  - qtrly aluminium production 783 kt vs 796 kt as reported last yr
+29,RIO.AX,rio tinto  - qtrly pilbara iron ore production 100 basis 77.8 mt vs 76 mt a year ago
+30,RIO.AX,rio tinto  - qtrly pilbara iron ore shipments 100 basis 72.9 mt vs 69.1 mt as reported last yr
+32,RIO.AX,australia stock exchange release from rio tinto rio.ax: prenr ends: 08:35:42
+1,RIO.AX,rio tinto - capital expenditure is now expected to be 5 to 6 bln in 2020 down from previous guidance of 7 bln
+0,RIO.AX,"rio tinto - demand in china continues to recover. in rest of world, outlook is more uncertain"
 0,WBC.AX,australia's westpac likely to slash h1 dividend by 50 - morgan stanley
 11,ANZ.AX,australia stock exchange release from australia and ne anz.ax: notice corporations act subsection 259c2
 4,ANZ.AX,fitch revises outlook on anz vietnam to stable on coronavirus pandemic risk; affirms at 'bb'
@@ -52,3 +54,5 @@
 8,BXB.AX,australia stock exchange release from bramb  bxb.ax: brambles chair handover date
 1,BXB.AX,australia's brambles rises on annual sales revenue growth forecast
 0,BXB.AX,brambles sees fy20 sales revenue growth of 5-7 at constant-fx rates
+2,SUN.AX,"fitch revises suncorp-metway's outlook to negative, affirms ratings"
+1,AMP.AX,australia stock exchange release from amp amp.ax: ceasing to be a substantial holder for ecf

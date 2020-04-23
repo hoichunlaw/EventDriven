@@ -1,11 +1,14 @@
 ,undlName,text
 0,BHP.AX,bhp bhpb.l: societe generale raises to buy rating
-3,CBA.AX,australia stock exchange release from commonwealth ban cba.ax: emtn 5850 - annual interest payment
+4,CBA.AX,australia stock exchange release from commonwealth ban cba.ax: emtn 5850 - annual interest payment
+1,NAB.AX,australia stock exchange release from nat. bank nab.ax: ceasing to be a substantial holder for nhc
 5,MQG.AX,macquarie group  mqg.ax : jefferies cuts price target to a137.0 from a167.0; rating buy
 3,MQG.AX,australia stock exchange release from southern cross m sxl.ax: ceasing to be a substantial holder from mqg
 2,MQG.AX,australia stock exchange release from macquarie group mqg.ax: ceasing to be a substantial holder for sxl
 0,MQG.AX,"jefferies cuts pt, earnings outlook for australia's macquarie group"
 0,WOW.AX,"aussie supermarkets underperforming global peers, woolworths to blame -jefferies"
+0,QAN.AX,qantas has postponed quarterly market to mid-may from april 30 - spokesman
+0,NCM.AX,newcrest mining  ncm.ax: cibc raises target price to a28 from a25
 22,STO.AX,australia stock exchange release from santos sto.ax: 2020 first quarter activities report
 21,STO.AX,australia stock exchange release from santos sto.ax: prenr ends: 09:27:38
 19,STO.AX,"santos  - qtrly sales revenue 883 mln vs 1,015 mln reported last yr"
@@ -30,12 +33,13 @@
 0,RHC.AX,jefferies backs ramsay health care's 880 mln capital raise; shares drop
 2,SHL.AX,australia stock exchange release from sonic hlth shl.ax: change in substantial 
 2,REA.AX,australia stock exchange release from rea group  rea.ax: company secretary appointmentresignation
-18,AMP.AX,australia stock exchange release from amp amp.ax: amp limited provides q1 20 aum and cashflows update
-17,AMP.AX,australia stock exchange release from amp amp.ax: prenr ends: 07:41:08
-16,AMP.AX,australia stock exchange release from amp amp.ax: amp annual general meeting coivd19 update
-7,AMP.AX,rpt-amp  - q1 20 amp capital net external cashflows increased to a1.3 bln from net cash outflows of a20 mln in q1 19
-8,AMP.AX,corrected-amp  - q1 20 australian wealth management average aum declined 2 to a131.3 bln from a134.0 bln in q4 19 adds period
-6,AMP.AX,rpt-amp  - amp capital total assets under management a192.4 bln in q1 20 vs a203.1 bln in q4 19
-5,AMP.AX,rpt-amp - markets in q1 were extremely volatile particularly in march
-4,AMP.AX,rpt-amp-expects market volatility to continue  economic impact of coronavirus to emerge over remainder of year
-3,AMP.AX,"rpt-amp - significant falls in equities, fixed income, key commodities in volatile q1 markets impacted qtrly aum"
+19,AMP.AX,australia stock exchange release from amp amp.ax: amp limited provides q1 20 aum and cashflows update
+18,AMP.AX,australia stock exchange release from amp amp.ax: prenr ends: 07:41:08
+17,AMP.AX,australia stock exchange release from amp amp.ax: amp annual general meeting coivd19 update
+8,AMP.AX,rpt-amp  - q1 20 amp capital net external cashflows increased to a1.3 bln from net cash outflows of a20 mln in q1 19
+9,AMP.AX,corrected-amp  - q1 20 australian wealth management average aum declined 2 to a131.3 bln from a134.0 bln in q4 19 adds period
+7,AMP.AX,rpt-amp  - amp capital total assets under management a192.4 bln in q1 20 vs a203.1 bln in q4 19
+6,AMP.AX,rpt-amp - markets in q1 were extremely volatile particularly in march
+5,AMP.AX,rpt-amp-expects market volatility to continue  economic impact of coronavirus to emerge over remainder of year
+4,AMP.AX,"rpt-amp - significant falls in equities, fixed income, key commodities in volatile q1 markets impacted qtrly aum"
+0,AMP.AX,australia's amp reports 12.2 bln virus-driven hit to aum at investment arms

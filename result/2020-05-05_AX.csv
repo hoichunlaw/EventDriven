@@ -1,8 +1,9 @@
 ,undlName,text
-7,WBC.AX,westpac banking corp wbc.ax : jefferies cuts price target to a14.3 from a14.75
-1,WBC.AX,westpac banking corp wbc.ax : morgan stanley cuts price target to a15 from a15.7
-5,WBC.AX,"westpac: virus, loan losses create capital vulnerability - jefferies"
-0,WBC.AX,analysts raise concerns about westpac's potential divestments
+2,CBA.AX,australia stock exchange release from commonwealth ban cba.ax: ceasing to be a substantial holder
+8,WBC.AX,westpac banking corp wbc.ax : jefferies cuts price target to a14.3 from a14.75
+2,WBC.AX,westpac banking corp wbc.ax : morgan stanley cuts price target to a15 from a15.7
+6,WBC.AX,"westpac: virus, loan losses create capital vulnerability - jefferies"
+1,WBC.AX,analysts raise concerns about westpac's potential divestments
 2,MQG.AX,australia stock exchange release from bravura solution bvs.ax: macquarie conference investor presentation
 1,MQG.AX,australia stock exchange release from polynovo pnv.ax: polynovo presents at macquarie investor forum
 0,MQG.AX,australia stock exchange release from nine entertainme nec.ax: presentation to macquarie conference
@@ -41,9 +42,10 @@
 37,QAN.AX,"qantas -  since march, elevated levels of annual leave payments from standing down more than 25,000 employees ahead of jobkeeper program"
 7,QAN.AX,"qantas ceo says unsure if will bring back all 12 grounded a380s when demand returns, depends on recovery scenario"
 2,NCM.AX,australia stock exchange release from newcrest mining ncm.ax: appendix 2a quotation of placement shares
+3,FMG.AX,australia stock exchange release from fortescue metals fmg.ax: macquarie australia conference presentation
 3,RHC.AX,australia stock exchange release from ramsay health ca rhc.ax: change of director's interest notice
-6,COH.AX,australia stock exchange release from cochlear coh.ax: appendix 3y - yasmin allen
-2,COH.AX,australia stock exchange release from cochlear coh.ax: appendix 3y - bruce robinson
+5,COH.AX,australia stock exchange release from cochlear coh.ax: appendix 3y - yasmin allen
+1,COH.AX,australia stock exchange release from cochlear coh.ax: appendix 3y - bruce robinson
 12,DXS.AX,australia stock exchange release from dexus dxs.ax: covid-19 and march 2020 quarter portfolio update
 11,DXS.AX,australia stock exchange release from dexus dxs.ax: prenr ends: 08:56:50
 8,DXS.AX,australia stock exchange release from dexus dxs.ax: 2020 macquarie australia conference
@@ -55,3 +57,5 @@
 7,LLC.AX,australia stock exchange release from lendlease group llc.ax: change of director's interest notice
 4,LLC.AX,australia stock exchange release from lendlease group llc.ax: lendlease security purchase plan
 3,LLC.AX,australia stock exchange release from lendlease group llc.ax: prenr ends: 09:20:45
+2,AMP.AX,"australia's ioof shares rise, ms says co navigating tough market better than rival amp"
+1,AMP.AX,australia stock exchange release from amp amp.ax: appendix 3y

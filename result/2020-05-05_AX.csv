@@ -1,45 +1,48 @@
 ,undlName,text
-6,WBC.AX,westpac banking corp wbc.ax : jefferies cuts price target to a14.3 from a14.75
-0,WBC.AX,westpac banking corp wbc.ax : morgan stanley cuts price target to a15 from a15.7
-4,WBC.AX,"westpac: virus, loan losses create capital vulnerability - jefferies"
+7,WBC.AX,westpac banking corp wbc.ax : jefferies cuts price target to a14.3 from a14.75
+1,WBC.AX,westpac banking corp wbc.ax : morgan stanley cuts price target to a15 from a15.7
+5,WBC.AX,"westpac: virus, loan losses create capital vulnerability - jefferies"
+0,WBC.AX,analysts raise concerns about westpac's potential divestments
 1,MQG.AX,australia stock exchange release from bravura solution bvs.ax: macquarie conference investor presentation
 0,MQG.AX,australia stock exchange release from polynovo pnv.ax: polynovo presents at macquarie investor forum
 0,TCL.AX,jefferies lifts outlook for australia's transurban as traffic picks up
-37,QAN.AX,australia stock exchange release from qantas airways qan.ax: qantas group market update
-3,QAN.AX,"qantas ceo says jetstar offshoots in japan, singapore and new zealand remain core assets"
-4,QAN.AX,"qantas ceo says have ample liquidity, does not see need to raise equity"
-5,QAN.AX,"qantas ceo says opening australia-new zealand travel would be positive, potential model for other phased market openings"
-6,QAN.AX,qantas airways rises on securing 353 mln funding to sail through virus woes
-8,QAN.AX,"shares of qantas climb 5.6 in early trade after raising more debt, says has enough liquidity to last until dec 2021 if current conditions persist"
-11,QAN.AX,"1-qantas extends flight cancellations for 2 more months,  raises more debt"
-12,QAN.AX,"qantas airways extends flight cancellations, raises a550 mln"
-17,QAN.AX,qantas airways- group secured a further 550 mln in funding against three of its wholly-owned boeing 787-9 aircraft
-13,QAN.AX,"qantas airways  - with possible exception of new zealand, international travel demand could take years to return to what it was"
-15,QAN.AX,qantas airways  -  currently has 2.7 bln in unencumbered aircraft assets and can raise funds against these if required
-16,QAN.AX,"qantas-sufficient liquidity to respond to range of recovery scenarios, including one where current trading conditions persist until at least dec 2021"
-18,QAN.AX,"qantas airways- as at today, cash impact of all foreign exchange  fuel hedging between now  end of sept 2020 is a a145 mln cash outflow"
-28,QAN.AX,"qantas -  since march, elevated levels of annual leave payments from standing down more than 25,000 employees ahead of jobkeeper program"
-2,QAN.AX,"qantas ceo says in talks with jetstar pacific co-owner vietnam airlines about future of venture, no conclusion yet"
-20,QAN.AX,"qantas airways  - fleet, network and capital expenditure will all have to be reviewed"
-22,QAN.AX,qantas- group currently operating 5 of pre-crisis domestic passenger network  1 of international network on an available seat kilometre basis
-23,QAN.AX,"qantas airways- qantas, jetstar customers with bookings impacted by cancellations for june and july will be contacted directly, offered alternatives"
-25,QAN.AX,qantas airways  - international flight cancellations will be extended through to end-july 2020
-26,QAN.AX,qantas airways - current stand down of employees will now be extended until at least end of june
-27,QAN.AX,qantas airways- qantas  jetstar to extend existing domestic  trans-tasman flight cancellations beyond end-may through to end of june 2020
-19,QAN.AX,qantas airways - expecting demand recovery to be gradual and it will be some time before total demand reaches pre- crisis levels
-29,QAN.AX,qantas airways - currently has 2.7 bln in unencumbered aircraft assets and can raise funds against these if required
-30,QAN.AX,"qantas airways  - after further funding, net debt is now within middle of target range, at 5.8 bln"
-31,QAN.AX,"qantas airways  - has also extended flight cancellations from end-may through to end of july, which were still at pre- coronavirus levels"
-32,QAN.AX,qantas airways  -  expects to reach a net cash burn rate of 40 mln per week by end of june 2020
-33,QAN.AX,qantas airways  - has no financial covenants on any existing or new debt facilities and no significant debt maturities until june 2021.
-34,QAN.AX,qantas airways  - secured a further 550 mln in debt funding.
-36,QAN.AX,australia stock exchange release from qantas airways qan.ax: prenr ends: 08:57:05
-21,QAN.AX,qantas airways  - group's remaining brent crude oil hedging to sept 2020 is in outright options with no risk of further hedge losses
-1,QAN.AX,"qantas ceo says well-placed to pick up more domestic, international market share as crisis abates"
-0,NCM.AX,australia stock exchange release from newcrest mining ncm.ax: appendix 2a quotation of placement shares
+43,QAN.AX,australia stock exchange release from qantas airways qan.ax: qantas group market update
+8,QAN.AX,"qantas ceo says well-placed to pick up more domestic, international market share as crisis abates"
+9,QAN.AX,"qantas ceo says in talks with jetstar pacific co-owner vietnam airlines about future of venture, no conclusion yet"
+10,QAN.AX,"qantas ceo says jetstar offshoots in japan, singapore and new zealand remain core assets"
+11,QAN.AX,"qantas ceo says have ample liquidity, does not see need to raise equity"
+12,QAN.AX,"qantas ceo says opening australia-new zealand travel would be positive, potential model for other phased market openings"
+13,QAN.AX,qantas airways rises on securing 353 mln funding to sail through virus woes
+15,QAN.AX,"shares of qantas climb 5.6 in early trade after raising more debt, says has enough liquidity to last until dec 2021 if current conditions persist"
+1,QAN.AX,2-qantas secures more funding to wait out coronavirus crisis; shares rise
+18,QAN.AX,"qantas airways extends flight cancellations, raises a550 mln"
+19,QAN.AX,"qantas airways  - with possible exception of new zealand, international travel demand could take years to return to what it was"
+21,QAN.AX,qantas airways  -  currently has 2.7 bln in unencumbered aircraft assets and can raise funds against these if required
+32,QAN.AX,qantas airways - current stand down of employees will now be extended until at least end of june
+31,QAN.AX,qantas airways  - international flight cancellations will be extended through to end-july 2020
+38,QAN.AX,qantas airways  -  expects to reach a net cash burn rate of 40 mln per week by end of june 2020
+5,QAN.AX,qantas ceo says no longer plans to order this year planes capable of sydney-london flights
+37,QAN.AX,"qantas airways  - has also extended flight cancellations from end-may through to end of july, which were still at pre- coronavirus levels"
+35,QAN.AX,qantas airways - currently has 2.7 bln in unencumbered aircraft assets and can raise funds against these if required
+34,QAN.AX,"qantas -  since march, elevated levels of annual leave payments from standing down more than 25,000 employees ahead of jobkeeper program"
+33,QAN.AX,qantas airways- qantas  jetstar to extend existing domestic  trans-tasman flight cancellations beyond end-may through to end of june 2020
+22,QAN.AX,"qantas-sufficient liquidity to respond to range of recovery scenarios, including one where current trading conditions persist until at least dec 2021"
+29,QAN.AX,"qantas airways- qantas, jetstar customers with bookings impacted by cancellations for june and july will be contacted directly, offered alternatives"
+28,QAN.AX,qantas- group currently operating 5 of pre-crisis domestic passenger network  1 of international network on an available seat kilometre basis
+27,QAN.AX,qantas airways  - group's remaining brent crude oil hedging to sept 2020 is in outright options with no risk of further hedge losses
+26,QAN.AX,"qantas airways  - fleet, network and capital expenditure will all have to be reviewed"
+25,QAN.AX,qantas airways - expecting demand recovery to be gradual and it will be some time before total demand reaches pre- crisis levels
+24,QAN.AX,"qantas airways- as at today, cash impact of all foreign exchange  fuel hedging between now  end of sept 2020 is a a145 mln cash outflow"
+23,QAN.AX,qantas airways- group secured a further 550 mln in funding against three of its wholly-owned boeing 787-9 aircraft
+39,QAN.AX,qantas airways  - has no financial covenants on any existing or new debt facilities and no significant debt maturities until june 2021.
+40,QAN.AX,qantas airways  - secured a further 550 mln in debt funding.
+42,QAN.AX,australia stock exchange release from qantas airways qan.ax: prenr ends: 08:57:05
+36,QAN.AX,"qantas airways  - after further funding, net debt is now within middle of target range, at 5.8 bln"
+4,QAN.AX,"qantas ceo says unsure if will bring back all 12 grounded a380s when demand returns, depends on recovery scenario"
+2,NCM.AX,australia stock exchange release from newcrest mining ncm.ax: appendix 2a quotation of placement shares
 3,RHC.AX,australia stock exchange release from ramsay health ca rhc.ax: change of director's interest notice
-5,COH.AX,australia stock exchange release from cochlear coh.ax: appendix 3y - yasmin allen
-1,COH.AX,australia stock exchange release from cochlear coh.ax: appendix 3y - bruce robinson
+6,COH.AX,australia stock exchange release from cochlear coh.ax: appendix 3y - yasmin allen
+2,COH.AX,australia stock exchange release from cochlear coh.ax: appendix 3y - bruce robinson
 11,DXS.AX,australia stock exchange release from dexus dxs.ax: covid-19 and march 2020 quarter portfolio update
 10,DXS.AX,australia stock exchange release from dexus dxs.ax: prenr ends: 08:56:50
 7,DXS.AX,australia stock exchange release from dexus dxs.ax: 2020 macquarie australia conference

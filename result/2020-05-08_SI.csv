@@ -1,35 +1,38 @@
 ,undlName,text
-1,OCBC.SI,singapore lender ocbc's q1 profit slumps 43 pct on coronavirus charges
-0,OCBC.SI,1-singapore bank ocbc's q1 profit tumbles 43 to 7-yr low on virus charges
-20,OCBC.SI,"oversea-chinese banking corporation  - as at march 31, npl ratio 1.5"
-15,OCBC.SI,"oversea-chinese banking corporation  -  overall fundamentals of diversified banking, wealth management  insurance businesses remain sound"
-14,OCBC.SI,"oversea-chinese banking corporation  -  qtrly net interest income s1,626 mln vs s1,534 mln"
-18,OCBC.SI,"oversea-chinese banking corporation  - as at march 31, cet1 ratio 14.3"
-16,OCBC.SI,"oversea-chinese banking corporation  -  qtrly net profit s698 mln vs s1,231 mln"
-8,OCBC.SI,oversea-chinese banking- q1 total cumulative allowances increased by s632 million qoq to cushion for near-term impact on portfolio
-6,OCBC.SI,oversea-chinese banking corporation - qtrly net profit from insurance operations s18 mln vs s290 mln
-19,OCBC.SI,oversea-chinese banking corporation  -  expect next few quarters will be very difficult for individuals and businesses
-7,OCBC.SI,oversea-chinese banking-  higher specific allowances in 1q20 largely made for a singapore based corporate customer in oil trading sector
-17,OCBC.SI,oversea-chinese banking corporation  -  qtrly net interest margin 1.76 vs 1.76
-13,OCBC.SI,oversea-chinese banking corporation  -  nim compression expected in subsequent quarters from full effect of rate cuts
-9,OCBC.SI,oversea-chinese banking corporation  - economic recovery unlikely until 2021 at earliest; watchful of impact to near-term earnings growth
-5,OCBC.SI,oversea-chinese banking corporation  - overall cumulative credit costs over next two years estimated to be between 100-130bps
-4,OCBC.SI,oversea-chinese banking -  sees near-term npl ratio to between 2.5 to 3.5 due to economic weakness and uncertainty
-19,SIAL.SI,singapore airlines  -  sia group expects to report a material operating loss for final quarter of fy20192020
-13,SIAL.SI,singapore airlines  - additional fuel hedging losses may be expected in q1 of fy20202021
-9,SIAL.SI,singapore airlines  -  sia continues pay cuts of up to 30 taken by entire management team
-2,SIAL.SI,singapore airlines-  sia group has no outstanding loans to virgin australia
-3,SIAL.SI,"singapore airlines- as at 31 dec 2019, sia group's carrying value in virgin was zero  has no exposure to further losses incurred by virgin australia"
-6,SIAL.SI,singapore airlines-in negotiations with aircraft makers to adjust delivery stream for existing aircraft orders due to market conditions
-7,SIAL.SI,singapore airlines  -  sia directors volunteered a 30 cut in fees
-8,SIAL.SI,singapore airlines  -  continues to pursue steps to reduce costs and conserve cash
-10,SIAL.SI,singapore airlines- capacity cuts by sia group due to covid-19 has resulted in it being in over-hedged position expected fuel consumption for fy2021
-11,SIAL.SI,singapore airlines  - sia group has no requirement or obligation to provide capital to virgin australia
-12,SIAL.SI,singapore airlines -  improvement in cargo yields expected to sustain into q1 of fy20202021
-14,SIAL.SI,singapore airlines  -  sia group currently expects operating cashflows to remain negative during ongoing quarter april to june 2020
-15,SIAL.SI,"singapore airlines  - sia group expects to report a small operating profit, but a net loss, for full year fy20192020"
-16,SIAL.SI,singapore airlines  -  scoot is expecting capacity cuts of about 98
-17,SIAL.SI,singapore airlines  -  sia and silkair have extended their combined capacity cuts of about 96 until end of june 2020
-18,SIAL.SI,singapore airlines - collapse of fuel prices in march 2020 has led to fuel hedging losses on contracts maturing in final quarter of fy20192020
-1,SIAL.SI,singapore airlines says sia group expects a net loss for full year fy20192020
-0,SIAL.SI,singapore airlines to report q4 loss on fuel hedges
+4,OCBC.SI,singapore lender ocbc's q1 profit slumps 43 pct on coronavirus charges
+8,OCBC.SI,oversea-chinese banking corporation  - overall cumulative credit costs over next two years estimated to be between 100-130bps
+16,OCBC.SI,oversea-chinese banking corporation  -  nim compression expected in subsequent quarters from full effect of rate cuts
+18,OCBC.SI,"oversea-chinese banking corporation  -  overall fundamentals of diversified banking, wealth management  insurance businesses remain sound"
+22,OCBC.SI,oversea-chinese banking corporation  -  expect next few quarters will be very difficult for individuals and businesses
+21,OCBC.SI,"oversea-chinese banking corporation  - as at march 31, cet1 ratio 14.3"
+20,OCBC.SI,oversea-chinese banking corporation  -  qtrly net interest margin 1.76 vs 1.76
+19,OCBC.SI,"oversea-chinese banking corporation  -  qtrly net profit s698 mln vs s1,231 mln"
+9,OCBC.SI,oversea-chinese banking corporation - qtrly net profit from insurance operations s18 mln vs s290 mln
+17,OCBC.SI,"oversea-chinese banking corporation  -  qtrly net interest income s1,626 mln vs s1,534 mln"
+10,OCBC.SI,oversea-chinese banking-  higher specific allowances in 1q20 largely made for a singapore based corporate customer in oil trading sector
+11,OCBC.SI,oversea-chinese banking- q1 total cumulative allowances increased by s632 million qoq to cushion for near-term impact on portfolio
+23,OCBC.SI,"oversea-chinese banking corporation  - as at march 31, npl ratio 1.5"
+0,OCBC.SI,singapore's ocbc ceo says expects private banking business to show slower growth in q2 and q3 due to market uncertainty
+1,OCBC.SI,singapore's ocbc ocbc.si ceo says irregularities seen in some singapore oil traders are isolated cases in the sector
+2,OCBC.SI,"2-singapore bank ocbc q1 profit slumps to 7-yr low, builds loan-loss defences"
+12,OCBC.SI,oversea-chinese banking corporation  - economic recovery unlikely until 2021 at earliest; watchful of impact to near-term earnings growth
+7,OCBC.SI,oversea-chinese banking -  sees near-term npl ratio to between 2.5 to 3.5 due to economic weakness and uncertainty
+20,SIAL.SI,singapore airlines  -  sia group expects to report a material operating loss for final quarter of fy20192020
+2,SIAL.SI,singapore airlines says sia group expects a net loss for full year fy20192020
+14,SIAL.SI,singapore airlines  - additional fuel hedging losses may be expected in q1 of fy20202021
+10,SIAL.SI,singapore airlines  -  sia continues pay cuts of up to 30 taken by entire management team
+3,SIAL.SI,singapore airlines-  sia group has no outstanding loans to virgin australia
+4,SIAL.SI,"singapore airlines- as at 31 dec 2019, sia group's carrying value in virgin was zero  has no exposure to further losses incurred by virgin australia"
+7,SIAL.SI,singapore airlines-in negotiations with aircraft makers to adjust delivery stream for existing aircraft orders due to market conditions
+8,SIAL.SI,singapore airlines  -  sia directors volunteered a 30 cut in fees
+1,SIAL.SI,singapore airlines to report q4 loss on fuel hedges
+9,SIAL.SI,singapore airlines  -  continues to pursue steps to reduce costs and conserve cash
+12,SIAL.SI,singapore airlines  - sia group has no requirement or obligation to provide capital to virgin australia
+13,SIAL.SI,singapore airlines -  improvement in cargo yields expected to sustain into q1 of fy20202021
+15,SIAL.SI,singapore airlines  -  sia group currently expects operating cashflows to remain negative during ongoing quarter april to june 2020
+16,SIAL.SI,"singapore airlines  - sia group expects to report a small operating profit, but a net loss, for full year fy20192020"
+17,SIAL.SI,singapore airlines  -  scoot is expecting capacity cuts of about 98
+18,SIAL.SI,singapore airlines  -  sia and silkair have extended their combined capacity cuts of about 96 until end of june 2020
+19,SIAL.SI,singapore airlines - collapse of fuel prices in march 2020 has led to fuel hedging losses on contracts maturing in final quarter of fy20192020
+11,SIAL.SI,singapore airlines- capacity cuts by sia group due to covid-19 has resulted in it being in over-hedged position expected fuel consumption for fy2021
+0,SIAL.SI,1-singapore airlines to report q4 loss on fuel hedges

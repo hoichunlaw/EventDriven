@@ -31,7 +31,7 @@ def main():
     url1 = path + formatDate(today) + "_HK.csv"
     url2 = path + formatDate(today) + "_AX.csv"
     url3 = path + formatDate(today) + "_SI.csv"
-    email("isaac.law@rbccm.com", "Eikon_News", "", [url1, url2, url3])
+    email("isaac.law@rbccm.com", "_News_", "", [url1, url2, url3])
 
 if __name__=="__main__":
     main()

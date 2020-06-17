@@ -1,8 +1,11 @@
 ,undlName,text
-1,BHP.AX,bhp completes first yuan-based iron ore sale to china's baosteel
-2,NAB.AX,nab - federal court approves settlement of class action against nab  mlc  in relation to consumer credit insurance products
-1,NAB.AX,nab - settlement involves a payment of 49.5 million
-0,MQG.AX,media-australian fund macquarie looking at options for yorkshire-focused telecoms group kcom - ft
+4,BHP.AX,bhp completes first yuan-based iron ore sale to china's baosteel
+2,BHP.AX,1-bhp completes first yuan-based iron ore sale to china's baosteel
+3,NAB.AX,nab - federal court approves settlement of class action against nab  mlc  in relation to consumer credit insurance products
+2,NAB.AX,nab - settlement involves a payment of 49.5 million
+4,MQG.AX,media-australian fund macquarie looking at options for yorkshire-focused telecoms group kcom - ft
+5,NCM.AX,australia stock exchange release from newcrest mining ncm.ax: baml 2020 presentation
+3,NCM.AX,australia stock exchange release from newcrest mining ncm.ax: baml 2020 briefing book
 13,IPL.AX,australia's incitec pivot's 'pragmatic' balance sheet repair: jefferies raises pt
 11,IPL.AX,australia stock exchange release from incitec pv ipl.ax: ipl successfully completes a600 million placement
 10,IPL.AX,australia stock exchange release from incitec pv ipl.ax: prenr ends: 09:34:49
@@ -18,30 +21,30 @@
 3,SUN.AX,"ms says 'challenging environment' persists for australia's suncorp, cuts pt"
 1,SUN.AX,"suncorp group  sun.ax: morgans cuts pt to a10.44 from a12.47, changes rating to 'add' from 'hold'"
 0,SUN.AX,"ms, morgans slash forecast for australia's suncorp, cut pt"
-30,AMC.AX,amcor reports year to date results and raises outlook for fiscal 2020
-9,AMC.AX,australia stock exchange release from amcor plc amc.ax: prenr ends: 08:36:38
-10,AMC.AX,australia stock exchange release from amcor plc amc.ax: 3q 2020 form 10-q
-12,AMC.AX,australia stock exchange release from amcor plc amc.ax: prenr ends: 08:36:08
-13,AMC.AX,australia stock exchange release from amcor plc amc.ax: form 8-k
-16,AMC.AX,amcor plc - extent to which global pandemic influenced overall demand for co's products in q3 is unclear
-17,AMC.AX,"amcor plc - to date, operating costs have also not been materially impacted by covid-19"
-18,AMC.AX,amcor plc - has not experienced significant business continuity issues related to accessing raw materials
-19,AMC.AX,amcor plc - sees 2020 net interest costs of 190 - 200 mln previously 210 - 230 mln in constant currency terms
-7,AMC.AX,australia stock exchange release from amcor plc amc.ax: dividenddistribution - amc
-20,AMC.AX,amcor plc amcr.n fy2020 shr view 0.62 -- refinitiv ibes data
-22,AMC.AX,amcor plc - outlook implies a constant currency eps range of 64.6 - 65.2 us cents per share for fy
-23,AMC.AX,amcor plc - declared a quarterly cash dividend of 11.5 cents per share
-24,AMC.AX,"amcor plc amcr.n q3 shr view 0.16, rev view 3.22 bln -- refinitiv ibes data"
-25,AMC.AX,"amcor plc qtrly net sales 2,310 mln"
-26,AMC.AX,amcor plc - has a strong balance sheet and we expect to generate over 1 bln of annual free cash flow
-27,AMC.AX,amcor plc qtrly shr 0.097
-28,AMC.AX,"amcor plc - longer term, notwithstanding current uncertainty, amcor's business is expected to remain defensive"
-29,AMC.AX,amcor plc - fiscal 2020 outlook for adjusted eps growth in constant currency terms increased to 11-12
-21,AMC.AX,amcor plc - expects fy corporate expenses before synergies of 160 - 170 mln in constant currency terms
-6,AMC.AX,australia stock exchange release from amcor plc amc.ax: prenr ends: 08:37:18
-7,S32.AX,australia stock exchange release from south32 s32.ax: hermosa project - mineral resource estimate declaration
-4,S32.AX,australia stock exchange release from south32 s32.ax: bofa securities 2020 global metals mining  steel conference
-1,LLC.AX,australia stock exchange release from lendlease group llc.ax: amended change of director's interest notice
+31,AMC.AX,amcor reports year to date results and raises outlook for fiscal 2020
+10,AMC.AX,australia stock exchange release from amcor plc amc.ax: prenr ends: 08:36:38
+11,AMC.AX,australia stock exchange release from amcor plc amc.ax: 3q 2020 form 10-q
+13,AMC.AX,australia stock exchange release from amcor plc amc.ax: prenr ends: 08:36:08
+14,AMC.AX,australia stock exchange release from amcor plc amc.ax: form 8-k
+17,AMC.AX,amcor plc - extent to which global pandemic influenced overall demand for co's products in q3 is unclear
+18,AMC.AX,"amcor plc - to date, operating costs have also not been materially impacted by covid-19"
+19,AMC.AX,amcor plc - has not experienced significant business continuity issues related to accessing raw materials
+20,AMC.AX,amcor plc - sees 2020 net interest costs of 190 - 200 mln previously 210 - 230 mln in constant currency terms
+8,AMC.AX,australia stock exchange release from amcor plc amc.ax: dividenddistribution - amc
+21,AMC.AX,amcor plc amcr.n fy2020 shr view 0.62 -- refinitiv ibes data
+23,AMC.AX,amcor plc - outlook implies a constant currency eps range of 64.6 - 65.2 us cents per share for fy
+24,AMC.AX,amcor plc - declared a quarterly cash dividend of 11.5 cents per share
+25,AMC.AX,"amcor plc amcr.n q3 shr view 0.16, rev view 3.22 bln -- refinitiv ibes data"
+26,AMC.AX,"amcor plc qtrly net sales 2,310 mln"
+27,AMC.AX,amcor plc - has a strong balance sheet and we expect to generate over 1 bln of annual free cash flow
+28,AMC.AX,amcor plc qtrly shr 0.097
+29,AMC.AX,"amcor plc - longer term, notwithstanding current uncertainty, amcor's business is expected to remain defensive"
+30,AMC.AX,amcor plc - fiscal 2020 outlook for adjusted eps growth in constant currency terms increased to 11-12
+22,AMC.AX,amcor plc - expects fy corporate expenses before synergies of 160 - 170 mln in constant currency terms
+7,AMC.AX,australia stock exchange release from amcor plc amc.ax: prenr ends: 08:37:18
+11,S32.AX,australia stock exchange release from south32 s32.ax: hermosa project - mineral resource estimate declaration
+8,S32.AX,australia stock exchange release from south32 s32.ax: bofa securities 2020 global metals mining  steel conference
+2,LLC.AX,australia stock exchange release from lendlease group llc.ax: amended change of director's interest notice
 2,AMP.AX,australia stock exchange release from amp amp.ax: appendix 3y - de ferrari
 3,ILU.AX,australia stock exchange release from iluka resources ilu.ax: presentation to boaml conference
 2,ILU.AX,australia stock exchange release from iluka resources ilu.ax: prenr ends: 15:53:50

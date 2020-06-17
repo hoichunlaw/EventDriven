@@ -1,6 +1,6 @@
 python D:\python\EventDriven\Downloader.py
 python D:\python\EventDriven\News_Headlines_Prediction.py
-python D:\python\EventDriven\Email.py
+rem python D:\python\EventDriven\Email.py
 cd /D D:\python\EventDriven\
 "C:\Program Files\Git\bin\git.exe" status
 "C:\Program Files\Git\bin\git.exe" add .

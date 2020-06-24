@@ -1,6 +1,8 @@
 ,undlName,text
-0,BHP.AX,1-bhp announces stricter health protocols in chile as cases among workers top 200
-1,CBA.AX,australia stock exchange release from commonwealth ban cba.ax: ceasing to be a substantial holder for dcg
+1,BHP.AX,1-bhp announces stricter health protocols in chile as cases among workers top 200
+3,CBA.AX,australia stock exchange release from commonwealth ban cba.ax: ceasing to be a substantial holder for dcg
+4,WBC.AX,australia stock exchange release from westpac banking wbc.ax: ceasing to be a substantial holder for pdl
+0,MQG.AX,australia stock exchange release from macquarie group mqg.ax: notice of annual general meetingproxy form
 6,WOW.AX,"woolworths wow.ax : jefferies cuts pt to a41.50 from a46.00, retains 'buy' rating"
 5,WOW.AX,"jefferies says 'patience waning' on australia's woolworths; cuts pt, outlook"
 4,WOW.AX,"australia's qube s: jefferies lifts pt, outlook on deal with woolworths"
@@ -24,6 +26,7 @@
 7,SHL.AX,sonic healthcare  - now expects to report underlying ebitda for fy 2020 at a similar level to 2019
 3,SHL.AX,sonic healthcare sees fy underlying ebitda at 2019 level
 0,SHL.AX,australia's sonic healthcare hits over 3-month high on upbeat outlook
-4,DXS.AX,australia stock exchange release from dexus dxs.ax: sale of 45 clarence street sydney for 530 million
-3,DXS.AX,australia stock exchange release from dexus dxs.ax: prenr ends: 12:37:51
-1,DXS.AX,"dexus - conditionally exchanged contracts to sell 45 clarence street, sydney for 530 mln"
+7,DXS.AX,australia stock exchange release from dexus dxs.ax: sale of 45 clarence street sydney for 530 million
+6,DXS.AX,australia stock exchange release from dexus dxs.ax: prenr ends: 12:37:51
+4,DXS.AX,"dexus - conditionally exchanged contracts to sell 45 clarence street, sydney for 530 mln"
+2,DXS.AX,australia stock exchange release from dexus dxs.ax: resilience in property valuations at 30 june 2020

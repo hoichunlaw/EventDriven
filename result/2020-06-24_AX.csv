@@ -3,9 +3,10 @@
 2,WOW.AX,"woolworths wow.ax : jefferies cuts pt to a41.50 from a46.00, retains 'buy' rating"
 1,WOW.AX,"jefferies says 'patience waning' on australia's woolworths; cuts pt, outlook"
 0,WOW.AX,"australia's qube s: jefferies lifts pt, outlook on deal with woolworths"
-4,TCL.AX,australia stock exchange release from transurban group tcl.ax: redemption of eur500m 2.50 per cent fixed rate notes
-1,TCL.AX,transurban group - to redeem eur 500 mln under us10 bln secured medium term note programme
-2,TCL.AX,transurban group - redemption of eur500m 2.50 per cent fixed rate notes
+5,TCL.AX,australia stock exchange release from transurban group tcl.ax: redemption of eur500m 2.50 per cent fixed rate notes
+2,TCL.AX,transurban group - to redeem eur 500 mln under us10 bln secured medium term note programme
+3,TCL.AX,transurban group - redemption of eur500m 2.50 per cent fixed rate notes
+0,TCL.AX,"transurban to redeem eur 500 mln, 2.5 fixed rate notes"
 9,MGR.AX,australia stock exchange release from mirvac grp stapl mgr.ax: dividenddistribution - mgr
 8,MGR.AX,australia stock exchange release from mirvac grp stapl mgr.ax: prenr ends: 09:43:56
 6,MGR.AX,australia stock exchange release from mirvac grp stapl mgr.ax: mgr fy20 distribution and valuation update
@@ -13,8 +14,13 @@
 1,MGR.AX,"mirvac - preliminary valuations ex ipuc for 30 june indicate reduction in value of about 2.8 vs book value at dec 31, 2019"
 4,MGR.AX,mirvac group - distribution for year ending 30 june 2020 is 9.1 cents per stapled security
 3,AMC.AX,australia stock exchange release from amcor plc cdi 1: amc.ax: form 8-k
-6,SHL.AX,australia stock exchange release from sonic hlth shl.ax: trading update
-5,SHL.AX,australia stock exchange release from sonic hlth shl.ax: prenr ends: 09:58:56
-1,SHL.AX,"sonic healthcare - trading results for march, april substantially below forecast, may results stronger than expected"
-2,SHL.AX,sonic healthcare  - not in a position to provide guidance for fy 2021 at this time
-3,SHL.AX,sonic healthcare  - now expects to report underlying ebitda for fy 2020 at a similar level to 2019
+10,SHL.AX,australia stock exchange release from sonic hlth shl.ax: trading update
+9,SHL.AX,australia stock exchange release from sonic hlth shl.ax: prenr ends: 09:58:56
+5,SHL.AX,"sonic healthcare - trading results for march, april substantially below forecast, may results stronger than expected"
+6,SHL.AX,sonic healthcare  - not in a position to provide guidance for fy 2021 at this time
+7,SHL.AX,sonic healthcare  - now expects to report underlying ebitda for fy 2020 at a similar level to 2019
+3,SHL.AX,sonic healthcare sees fy underlying ebitda at 2019 level
+0,SHL.AX,australia's sonic healthcare hits over 3-month high on upbeat outlook
+3,DXS.AX,australia stock exchange release from dexus dxs.ax: sale of 45 clarence street sydney for 530 million
+2,DXS.AX,australia stock exchange release from dexus dxs.ax: prenr ends: 12:37:51
+1,DXS.AX,"dexus - conditionally exchanged contracts to sell 45 clarence street, sydney for 530 mln"

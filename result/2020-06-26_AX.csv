@@ -1,29 +1,33 @@
 ,undlName,text
 2,CSL.AX,csl  csl.ax : jefferies raises pt to a275.0 from a272.0
 0,CSL.AX,australia's csl: gene therapy deal a 'defensive move' -analysts
-3,WBC.AX,australia stock exchange release from westpac banking wbc.ax: westpac self-funding instalments over securities in qan
+11,WBC.AX,australia stock exchange release from westpac banking wbc.ax: westpac self-funding instalments over securities in qan
+7,WBC.AX,australia stock exchange release from westpac banking wbc.ax: westpac acknowledges responsible lending appeal ruling
+5,WBC.AX,westpac-judgment by full federal court dismissed asic appeal from earlier court decision on co's responsible lending obligations
+6,WBC.AX,westpac -  acknowledges responsible lending appeal ruling
 1,NAB.AX,australia stock exchange release from nat. bank nab.ax: notification of ceasing to be a substantial holder - sgr
 5,MQG.AX,australia stock exchange release from macquarie group mqg.ax: change in substantial 
 1,MQG.AX,australia stock exchange release from macquarie group mqg.ax: appointment of assistant company secretary
-25,QAN.AX,"qantas qan.ax : jefferies cuts pt to a5.31 from a6.20, retains 'buy' rating"
-22,QAN.AX,qantas paving a long runway to reclaim profits -jefferies
-21,QAN.AX,qantas capacity view signals turbulence for sydney airport -citi
-20,QAN.AX,"australia stock exchange release from qantas airways qan.ax: qantas completes a1,360m institutional placement"
-18,QAN.AX,australia stock exchange release from qantas airways qan.ax: prenr ends: 09:06:59
-17,QAN.AX,"asx alert-qantas completes a1,360m institutional placement-qan.ax"
-16,QAN.AX,qantas - shares expected to resume trading on asx from market open on 26 june
-15,QAN.AX,qantas -about 94 of placement shares were allocated to existing shareholders
-14,QAN.AX,qantas - demand to participate in placement significantly in excess of funds that qantas sought to raise
-13,QAN.AX,qantas-placement shares are expected to settle on 30 june and be issued and commence trading on asx on a normal basis on 1 july
-11,QAN.AX,"qantas qan.ax : citi raises pt to a4.60 from a3.70, lowers rating to 'neutralhigh risk' from 'buyhigh risk'"
-10,QAN.AX,qantas qan.ax: morgan stanley lifts price target to a5.30 from a5.20; rating overweight
-9,QAN.AX,qantas raises 940 mln in institutional share placement
-2,QAN.AX,qantas shares fall as much as 6.4 to a3.92 after co completes discounted share placement
-1,QAN.AX,qantas shares hit their lowest level since june 1
-0,QAN.AX,"qantas shares now down 9.5 at a3.79, lowest since may 25"
+27,QAN.AX,"qantas qan.ax : jefferies cuts pt to a5.31 from a6.20, retains 'buy' rating"
+3,QAN.AX,qantas shares hit their lowest level since june 1
+4,QAN.AX,qantas shares fall as much as 6.4 to a3.92 after co completes discounted share placement
+11,QAN.AX,qantas raises 940 mln in institutional share placement
+12,QAN.AX,qantas qan.ax: morgan stanley lifts price target to a5.30 from a5.20; rating overweight
+13,QAN.AX,"qantas qan.ax : citi raises pt to a4.60 from a3.70, lowers rating to 'neutralhigh risk' from 'buyhigh risk'"
+15,QAN.AX,qantas-placement shares are expected to settle on 30 june and be issued and commence trading on asx on a normal basis on 1 july
+2,QAN.AX,"qantas shares now down 9.5 at a3.79, lowest since may 25"
+16,QAN.AX,qantas - demand to participate in placement significantly in excess of funds that qantas sought to raise
+18,QAN.AX,qantas - shares expected to resume trading on asx from market open on 26 june
+19,QAN.AX,"asx alert-qantas completes a1,360m institutional placement-qan.ax"
+20,QAN.AX,australia stock exchange release from qantas airways qan.ax: prenr ends: 09:06:59
+22,QAN.AX,"australia stock exchange release from qantas airways qan.ax: qantas completes a1,360m institutional placement"
+23,QAN.AX,qantas capacity view signals turbulence for sydney airport -citi
+24,QAN.AX,qantas paving a long runway to reclaim profits -jefferies
+17,QAN.AX,qantas -about 94 of placement shares were allocated to existing shareholders
+1,QAN.AX,"1-qantas raises 940mln to counter coronavirus, shares slip"
 0,SYD.AX,qantas capacity view signals turbulence for sydney airport -citi
 4,AMP.AX,australia stock exchange release from amp amp.ax: corporations act 2001 subsection 259c2 exemption
-5,ILU.AX,australia stock exchange release from iluka resources ilu.ax: reduction of 2020 synthetic rutile off-take volumes
-3,ILU.AX,australia stock exchange release from iluka resources ilu.ax: prenr ends: 10:28:49
-0,ILU.AX,"iluka resources -year to date, 78 kt of synthetic rutile have been sold under the contracts"
-1,ILU.AX,iluka-expects not all of 175kt of synthetic rutile subject to takepay arrangements in 2020 will be taken as contemplated under relevant contracts
+6,ILU.AX,australia stock exchange release from iluka resources ilu.ax: reduction of 2020 synthetic rutile off-take volumes
+4,ILU.AX,australia stock exchange release from iluka resources ilu.ax: prenr ends: 10:28:49
+2,ILU.AX,"iluka resources -year to date, 78 kt of synthetic rutile have been sold under the contracts"
+3,ILU.AX,iluka-expects not all of 175kt of synthetic rutile subject to takepay arrangements in 2020 will be taken as contemplated under relevant contracts

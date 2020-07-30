@@ -7,22 +7,28 @@
 9,CBA.AX,countplus -  notes announcement by cba of a change to calculation of provisioning for past conduct remediation
 6,CBA.AX,cba sets aside further charges of 216 mln to remediate customers
 4,CBA.AX,1-australian bank cba sets aside 216 mln more to remediate customers
-3,RIO.AX,"rio tinto 'firing on all cylinders' as china demand picks up, say brokerages"
-1,RIO.AX,rio tinto rio.l: citigroup raises price target to 4600p from 4300p
-28,MQG.AX,australia stock exchange release from macquarie group mqg.ax: macquarie group 2020 agm media release
-27,MQG.AX,australia stock exchange release from macquarie group mqg.ax: prenr ends: 08:46:00
-25,MQG.AX,australia stock exchange release from macquarie group mqg.ax: macquarie group 2020 agm presentation
-24,MQG.AX,australia stock exchange release from macquarie group mqg.ax: prenr ends: 08:46:25
-20,MQG.AX,australia stock exchange release from macquarie group mqg.ax: macquarie group 2020 agm chairmans address
-23,MQG.AX,macquarie group  - is currently unable to provide meaningful earnings guidance for year ahead
-22,MQG.AX,macquarie group  -  1q21 operating group net profit contribution slightly down on 1q20
-21,MQG.AX,macquarie group - group capital surplus of a8.1 bln at 30 june 2020
-17,MQG.AX,macquarie - macquarie's markets-facing businesses were down on 1q20 due to significantly lower investment-related income in macquarie capital
-16,MQG.AX,macquarie group  -  macquarie capital's fee revenue was down on 1q20 due to lower fee revenue from mergers  acquisitions and debt capital markets
-15,MQG.AX,macquarie group -  bank cet1 ratio 13.2 as at 30 june 2020
-11,MQG.AX,macquarie group  -  gary banks is retiring from macquarie group board at conclusion of agm
-10,MQG.AX,australia's macquarie says q1 profit lower than a year
-4,MQG.AX,"2-australia's macquarie reports lower q1 profit, sees challenging outlook"
+5,RIO.AX,"rio tinto 'firing on all cylinders' as china demand picks up, say brokerages"
+3,RIO.AX,rio tinto rio.l: citigroup raises price target to 4600p from 4300p
+1,RIO.AX,rio tinto rio.l: deutsche bank raises target price to 5000p from 4900p
+40,MQG.AX,australia stock exchange release from macquarie group mqg.ax: macquarie group 2020 agm media release
+23,MQG.AX,macquarie group  -  gary banks is retiring from macquarie group board at conclusion of agm
+35,MQG.AX,macquarie group  - is currently unable to provide meaningful earnings guidance for year ahead
+34,MQG.AX,macquarie group  -  1q21 operating group net profit contribution slightly down on 1q20
+33,MQG.AX,macquarie group - group capital surplus of a8.1 bln at 30 june 2020
+29,MQG.AX,macquarie - macquarie's markets-facing businesses were down on 1q20 due to significantly lower investment-related income in macquarie capital
+28,MQG.AX,macquarie group  -  macquarie capital's fee revenue was down on 1q20 due to lower fee revenue from mergers  acquisitions and debt capital markets
+27,MQG.AX,macquarie group -  bank cet1 ratio 13.2 as at 30 june 2020
+3,MQG.AX,australia stock exchange release from macquarie group mqg.ax: becoming a substantial holder for cdv
+4,MQG.AX,australia stock exchange release from cardinal resourc cdv.ax: becoming a substantial holder from mqg
+6,MQG.AX,australia stock exchange release from macquarie group mqg.ax: becoming a substantial holder for acb
+11,MQG.AX,australia stock exchange release from macquarie group mqg.ax: results of meeting
+32,MQG.AX,australia stock exchange release from macquarie group mqg.ax: macquarie group 2020 agm chairmans address
+36,MQG.AX,australia stock exchange release from macquarie group mqg.ax: prenr ends: 08:46:25
+37,MQG.AX,australia stock exchange release from macquarie group mqg.ax: macquarie group 2020 agm presentation
+39,MQG.AX,australia stock exchange release from macquarie group mqg.ax: prenr ends: 08:46:00
+22,MQG.AX,australia's macquarie says q1 profit lower than a year
+16,MQG.AX,"2-australia's macquarie reports lower q1 profit, sees challenging outlook"
+4,WES.AX,australia stock exchange release from wesfarmers wes.ax: revised securities trading policy
 6,QAN.AX,australia stock exchange release from qantas airways qan.ax: accc proposes to continue to allow airlines to cooperate
 4,QAN.AX,australia's accc  - regional express to be allowed to continue to coordinate flight schedules with qantas  virgin australia on 10 regional routes
 23,FMG.AX,australia stock exchange release from fortescue metals fmg.ax: june quarterly production report
@@ -48,10 +54,11 @@
 3,DXS.AX,dexus- sale is expected to contribute circa 35 mln in trading profits pre-tax over fy21 and fy22
 4,DXS.AX,dexus- portfolio contracted to be sold to dalt at a price of 269.4 mln
 5,DXS.AX,dexus- entered agreements to sell a high quality portfolio of industrial assets to dexus australia logistics trust
-9,AMP.AX,australia stock exchange release from amp amp.ax: amp defence of insurance advice class action
-2,AMP.AX,amp  -  class action proceeding also filed against and hillross financial services limited hillross in federal court in victoria
-3,AMP.AX,amp  - proceedings are also commenced against amp life limited
-4,AMP.AX,amp  - ampfp and hillross will defend proceedings
-5,AMP.AX,amp  -  class action proceeding has been filed against amp financial planning pty limited ampfp in federal court in victoria.
-6,AMP.AX,amp  - proceeding relates to advice provided by some aligned financial advisers in respect of certain life and other insurance products
-7,AMP.AX,amp  - defence of insurance advice class action
+11,AMP.AX,australia stock exchange release from amp amp.ax: amp defence of insurance advice class action
+4,AMP.AX,amp  -  class action proceeding also filed against and hillross financial services limited hillross in federal court in victoria
+5,AMP.AX,amp  - proceedings are also commenced against amp life limited
+6,AMP.AX,amp  - ampfp and hillross will defend proceedings
+7,AMP.AX,amp  -  class action proceeding has been filed against amp financial planning pty limited ampfp in federal court in victoria.
+8,AMP.AX,amp  - proceeding relates to advice provided by some aligned financial advisers in respect of certain life and other insurance products
+9,AMP.AX,amp  - defence of insurance advice class action
+0,AMP.AX,australia's amp hit by class action over insurance advice
